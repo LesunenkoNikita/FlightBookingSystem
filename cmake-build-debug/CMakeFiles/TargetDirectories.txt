@@ -1,0 +1,3 @@
+/Users/niklesunenko/CLionProjects/FlightBookingSystem/cmake-build-debug/CMakeFiles/FlightBookingSystem.dir
+/Users/niklesunenko/CLionProjects/FlightBookingSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/niklesunenko/CLionProjects/FlightBookingSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
