@@ -23,8 +23,8 @@ int FileReader::unBook(vector<string> info, int row, int seat) {
         if (flight.getFlightNumber() == info[0]) {
             flight.unBook(row, seat);
             return flight.getRowPrice(row);
+            break;
         }
-        break;
     }
 }
 
